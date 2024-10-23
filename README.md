@@ -2,8 +2,6 @@
 
 ## Descrição
 
-{Descrição do projeto com o objetivo principal}
-
 O sistema tem como objetivo facilitar o agendamento de consultas, gerir estoques de medicamentos e insumos veterinários.
 
 ## Tecnologias Utilizadas
